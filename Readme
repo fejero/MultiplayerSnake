@@ -1,0 +1,11 @@
+Android Multiplayer Game Snake.
+
+- To enjoy the game in multiplayer mode, install the game on 2 devices and proceed with connect button in the initialization phase, else wise the game will proceed with 1 player and the role for second player cannot be controlled.
+
+- This is development version. Some features may be not functional or cause sudden crashes of application.
+
+- Tested on Nexus 6 Android emulator with 2GB memory. Not working on some physical devices.
+
+- Development environment - Android Studio
+
+- Install by copying the snake.apk file to the divice and start it within the device
